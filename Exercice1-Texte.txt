@@ -1,0 +1,15 @@
+Patrick Béland et Marc-André Couturier
+Site Yale: https://www.art.yale.edu/
+Première impression: Mauvais guidage. Mauvaise organisation. Quel est le contenu d'intérêt ?
+
+Besoins: Présenter le contenu de la classe d'art, mais dans le cas présent, le but est de montrer à quoi ressemble un site avec un mauvais design.
+
+Ergonomie: Il faut réfléchir pour trouver le contenu ou l'utilité du site. Il n'y a pas de repère utile. Il manque de contraste dans certains paragraphes. Par exemple, il y a du texte bleu sur une image noire. La structure manque de constance, les boites sont toutes d'une taille différente. La taille de la police n'est pas uniforme, il y a des paragraphes avec du texte trop petit, alors que les titres sont plus gros.
+
+
+Site Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML
+premiere impression: J'ai l'impression que le but est d'aider les programmeurs qui débutent et qu'on a accès a toute l'information dont on pourrait avoir besoin.
+
+Besoins: Enseigner comment utiliser HTML et donner une présentation des fonctionnalitées du langage. Le site sert de référence pour ceux qui savent déjà utiliser HTML.
+
+Ergonomie: Accès rapide vers plusieurs sujets et il y a un menu contenant les différentes sections de la page qui défile en même temps que l'utilisateur. L'utilisation du texte noir sur un fond blanc rend le contraste est excellent. L'organisation visuelle suit un modèle communément utilisé: barre de sujets à gauche et barre de navigation au dessus. La hiérarchie de l'information est claire. 
